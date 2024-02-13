@@ -1,0 +1,12 @@
+.searchfield{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: black;
+    color: white;
+    padding-left: 50px;
+    margin-bottom: 50px;
+}
+.searchfield h1{
+    font-size: 25px ;
+}

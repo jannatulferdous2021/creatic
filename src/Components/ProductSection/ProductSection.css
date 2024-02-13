@@ -1,0 +1,9 @@
+
+.catagory_card img{
+    border-radius: 20px 20px 0px 0px;
+}
+.catagory_card{
+    border-radius: 20px;
+    margin-top: 50px;
+    background-color: #51CF48  ;
+}

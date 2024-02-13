@@ -1,0 +1,57 @@
+.carousel-item{
+    background-image: url(../../assets/images/bg2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+}
+.carousel-item2{
+    background-image: url(../../assets/images/bg3.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+}
+.carousel-item3{
+    background-image: url(../../assets/images/bg2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+}
+.carousel-indicators [data-bs-target] {
+    border-radius: 100%;
+    width: 10px;
+    height: 10px;
+}
+.carousel-control-next-icon {
+    margin-left: 80px ;
+    color: gray !important;
+    font-weight: bold;
+}
+
+.carousel-control-prev-icon {
+    margin-right: 80px;
+}
+.ban-text{
+    margin-top: -300px;
+    margin-left: -650px!important;
+}
+.ban-text h1{
+    font-family: 'DM Serif Display', serif;
+    color: #51CF48;
+    font-size: 60px;
+}
+.ban-text p{
+    color: gray;
+}
+.btn{
+    background-color: #51CF48;
+    padding: 8px 30px;
+    border-radius: 10px;
+
+    font-size: 20px;
+}
+.btn a{
+    color: white !important;
+}
